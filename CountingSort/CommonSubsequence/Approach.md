@@ -1,11 +1,11 @@
 We can see clearly that, in both the strings even if one character is found common, then answer will be "Yes" else "No".
 So, we just need to find whether a common character exist b/w the strings.
 
-<b>Using Brute Force</b>
+<b>Using Brute Force</b><break>
 We can use brute force with nested loops to calculate the single common character, and hence answer will be "Yes" if at least on common character is found else "No", but it'll take O(n^2) for a single test case.
 
 
-<b>SOLVING IN O(n) TIME using Counting Sort(for single test case only)</b>
+<b>SOLVING IN O(n) TIME using Counting Sort(for single test case only)</b><break>
 As we know, both the strings contains only lower case letters(a-z), we can use two integer arrays of size 123 to store the count of each character in each string.
 
 Initially, set the values in arrays to be 0.
