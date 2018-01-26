@@ -5,7 +5,7 @@ Xsquare listed all subsequences of string S1 on a paper and all subsequences of 
 Xsquare thinks that this task is pretty boring and handed it to you. Please accomplish this task on his behalf.
 
 
-<pre><b>Input</b><break>
+<pre><b>Input</b><br>
 First line of input contains a single integer T denoting the number of test cases.
 Each test case consists of two lines.
 First line of each test case contains a string denoting string S1.
