@@ -3,17 +3,17 @@ This repository contains competitive coding questions with solutions(with explai
 
 This collection will be a valuable asset for a newbie programmer to practice according to certain topics.
 
-<b>NOTE:</b><break>
+<b>NOTE:</b>
 These questions have been taken from some online coding platforms(like codechef, hackerrank, hackerearth etc.) and some competitive coding books.
 
 
 A topic contains different folders for different problems.
 
-Each problem folder contains two files:
-<b>1. Problem</b><break>
+Each problem folder contains two files:<br>
+<b>1. Problem</b><br>
 This file contains the problem and information required to solve the problem in given time.
 
-<b>2. Approach</b>
+<b>2. Approach</b><br>
 This file contain different approaches which can be used to solve the problem.
 Their time complexities are also discussed, and one with the best result have been chosen to solve the problem.
 
