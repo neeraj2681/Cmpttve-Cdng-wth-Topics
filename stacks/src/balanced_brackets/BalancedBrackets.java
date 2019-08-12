@@ -1,3 +1,5 @@
+package balanced_brackets;
+
 import java.util.*; // importing utility package
 
 class BalancedBrackets{
