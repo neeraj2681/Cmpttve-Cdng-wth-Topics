@@ -1,0 +1,1 @@
+This problem is a part of Daily Coding interview problem!

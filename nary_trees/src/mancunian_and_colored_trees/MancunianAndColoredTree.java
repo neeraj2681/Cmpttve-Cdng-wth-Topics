@@ -1,4 +1,4 @@
-/*
+package mancunian_and_colored_trees;/*
 importing required packages
  */
 import java.util.*;
