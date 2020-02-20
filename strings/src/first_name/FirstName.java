@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-class TestClass {
+class FirstName {
 	
     public static void main(String args[] ) throws Exception { // Main Method
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); //BufferedReader object to read input
