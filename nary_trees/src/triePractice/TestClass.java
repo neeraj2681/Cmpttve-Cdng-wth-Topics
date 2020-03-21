@@ -71,7 +71,7 @@ public class TestClass {
         while (q-- > 0) {
             s = br.readLine();
             weight = maxWeight(s, root, 0);
-            if(weight == 0)
+            if (weight == 0)
                 System.out.println(-1);
             else
                 System.out.println(weight);
