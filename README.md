@@ -4,7 +4,7 @@ This repository contains competitive coding questions with solutions(with explai
 This collection will be a valuable asset for a newbie programmer to practice according to certain topics.
 
 <b>NOTE:</b>
-These questions have been taken from some online coding platforms(like <a href="https://www.codechef.com/">Codechef</a>, <a href="https://www.hackerrank.com/dashboard">HackerRank</a>, <a href="https://www.hackerearth.com/practice/">HackerEarth</a>, <a href="https://www.interviewbit.com/practice/">InterviewBit</a>, and some daily interview problem to which I have subscribed) and some competitive coding books.
+These questions have been taken from some online coding platforms(like <a href="https://www.codechef.com/">Codechef</a>, <a href="https://www.hackerrank.com/dashboard">HackerRank</a>, <a href="https://www.hackerearth.com/practice/">HackerEarth</a>, <a href="https://www.interviewbit.com/practice/">InterviewBit</a>, <a href="https://www.leetcode.com/">Leetcode</a>, and some daily interview problem to which I have subscribed) and some competitive coding books.
 
 
 A topic contains different folders for different problems.
@@ -17,6 +17,9 @@ This file contains the problem and information required to solve the problem in 
 This file contain different approaches which can be used to solve the problem.
 Their time complexities are also discussed, and one with the best result have been chosen to solve the problem.
 
-<b>Contributors are always welcome!</b>
+<b>Contributors are always welcome!</b><br>
+
+
+<b>Edit:</b> Currently adding solutions only in Python
 
 
