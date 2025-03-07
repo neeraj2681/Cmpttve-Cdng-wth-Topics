@@ -11,9 +11,9 @@ class Solution:
                
                 if n % i == 0:
                     counter+=1
-            if counter == 1:
-                return True
-            return False
+                if counter > 1:   
+                    return False
+            return True
         
         lprime = -1 * math.inf
         min_range = right - left + 1
@@ -32,6 +32,11 @@ class Solution:
                 # print(lprime, item, ans)
                 lprime = item
         return ans
+                
+                
+
+                
+        
                 
                 
 
