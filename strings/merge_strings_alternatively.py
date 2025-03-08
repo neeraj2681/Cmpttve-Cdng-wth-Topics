@@ -7,5 +7,5 @@ class Solution:
         elif len(word1) < len(word2):
             ans = ans + ''.join(x for x in word2[len(word1):])
         return ans
-
-        
+    
+    
